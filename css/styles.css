@@ -2,6 +2,7 @@
     body {
         background-color: #E8DFCA;
         font: 1em sans-serif;
+        margin: 0px;
     }
     hr {
         border-style: none none dotted none;
@@ -11,8 +12,25 @@
         width: 5%;
     }
     h1{
-        color: #7895B2;
+        color: black;
+        margin-top: 0px;
     }
     h3{
         color: #7895B2;
+    }
+
+    .top-container{
+        background-color: #7895B2;
+    }
+
+    .middle-container{
+        background-color: #AEBDCA;
+        width: 200px;
+        height: 200px;
+    }
+
+    .bottom-container{
+        background-color: #7895B2;
+        width: 200px;
+        height: 200px;
     }
