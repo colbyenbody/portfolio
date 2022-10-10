@@ -1,6 +1,6 @@
 
     body {
-        background-color: #E8DFCA;
+        background-color: #F5EFE6;
         font-family: “Trebuchet MS”, “Lucida Grande”, “Lucida Sans Unicode”, “Lucida Sans”, Tahoma, sans-serif;
         margin: 0px;
         text-align: center;
@@ -15,6 +15,7 @@
         width: 5%;
     }
     h1{
+        font-size: 562%;
         color: black;
         font-family: 'Sacramento', cursive;
         margin-top: 0px;
@@ -29,7 +30,7 @@
     }
 
     .top-container{
-        background-color: #7895B2;
+        background-color: #B1D0E0;
         position: relative;
         padding-top: 100px;
     }
