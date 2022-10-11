@@ -15,13 +15,14 @@
         width: 5%;
     }
     h1{
-        font-size: 562%;
+        font-size: 5.625rem;
         color: black;
         font-family: 'Sacramento', cursive;
-        margin-top: 0px;
+        margin-top: 50px auto 0 auto;
     }
 
     h2{
+        font-size: 2.5rem;
         font-family: 'Montserrat', sans-serif;
     }
     h3{
@@ -41,17 +42,27 @@
     .bottom-container{
     }
 
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+
+    }
 
     .top-cloud{
         position: absolute;
         right: 300px;
         top: 50px;
-
     }
 
     .bottom-cloud{
         position: absolute;
         left: 300px;
         bottom: 300px;
+    }
+
+    .skill-image{
+        width: 25%;
     }
     
